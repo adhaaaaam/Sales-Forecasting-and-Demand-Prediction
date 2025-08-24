@@ -20,3 +20,11 @@ This project applies end-to-end **data science techniques**, from **data collect
 - **Flask / FastAPI (optional)** – Model deployment
 - **Docker (optional)** – Containerization
 
+---
+
+## 👥 Team Members
+- Adham Ahmed  
+- Ahmed Lotfy  
+- Amany Habib  
+- Arwa Ramadan  
+- Moaaz Shabaan  
